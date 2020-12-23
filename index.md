@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Solubility of molecules (Comparing MLP and CNN)
 
 You can use the [editor on GitHub](https://github.com/MansurCompAI/SolubilityOfMolecules-CNNvsMLP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
