@@ -4,3 +4,5 @@ To determine the solubility of molecules, CNN and MLP models have been applied t
 
 
 * Mansurbek
+* Mukhammad
+ 
