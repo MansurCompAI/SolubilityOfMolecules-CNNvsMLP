@@ -11,5 +11,5 @@ One of the important pyhsicochemical  feuteres of molecules is solubility. Nowad
 
 > ## Methodolgy
 Since we are using supervised learning, the data was labeled as 0, 1, 2 for insoluble, moderate-soluble and soluble respectively. Total moleculas for model is 193299. 
-### Dataset view
+### Dataset view(SMILES+label)
 ![labeled dataset](./Pictures/Picture1.png)
