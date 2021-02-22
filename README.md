@@ -22,3 +22,6 @@ This study compares two models namely Convolutional Neural Network(CNN) and Recu
 
 ## RNN
 ![RNN](./Pictures/RNN.png)
+
+> ## Experimental part
+- Data has been splitted into train/test at the ratio of 80/20.
