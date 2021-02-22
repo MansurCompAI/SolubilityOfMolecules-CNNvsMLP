@@ -13,3 +13,9 @@ One of the important pyhsicochemical  feuteres of molecules is solubility. Nowad
 Since we are using supervised learning, the data was labeled as 0, 1, 2 for insoluble, moderate-soluble and soluble respectively. Total molecules for model is 193299. 
 ### Dataset view(SMILES+label)
 ![labeled dataset](./Pictures/Picture1.png)
+
+> ## Model Architecture
+This study compares two models namely Convolutional Neural Network(CNN) and Recurrent Neural Network (RNN).
+
+## CNN
+![cnn architecture](./Pictures/CNN.png)
