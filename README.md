@@ -19,3 +19,6 @@ This study compares two models namely Convolutional Neural Network(CNN) and Recu
 
 ## CNN
 ![cnn architecture](./Pictures/CNN.png)
+
+## RNN
+![RNN](./Pictures/RNN.png)
