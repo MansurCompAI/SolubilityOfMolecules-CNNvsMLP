@@ -3,7 +3,8 @@
 
 - [Abstract](#Abstract)
 - [Methodolgy](#Methodolgy)
-- 
+- [Model Architectures](#Model_Architectures)
+- [Experimental part](#Experimental_part)
 ---
 
 > ## Abstract
@@ -14,7 +15,7 @@ Since we are using supervised learning, the data was labeled as 0, 1, 2 for inso
 ### Dataset view(SMILES+label)
 ![labeled dataset](./Pictures/Picture1.png)
 
-> ## Model Architectures
+> ## Model_Architectures
 This study compares two models namely Convolutional Neural Network(CNN) and Recurrent Neural Network (RNN).
 
 ## CNN
@@ -23,5 +24,5 @@ This study compares two models namely Convolutional Neural Network(CNN) and Recu
 ## RNN
 ![RNN](./Pictures/RNN.png)
 
-> ## Experimental part
+> ## Experimental_part
 - Data has been splitted into train/test at the ratio of 80/20.
