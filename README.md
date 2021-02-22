@@ -14,7 +14,7 @@ Since we are using supervised learning, the data was labeled as 0, 1, 2 for inso
 ### Dataset view(SMILES+label)
 ![labeled dataset](./Pictures/Picture1.png)
 
-> ## Model Architecture
+> ## Model Architectures
 This study compares two models namely Convolutional Neural Network(CNN) and Recurrent Neural Network (RNN).
 
 ## CNN
